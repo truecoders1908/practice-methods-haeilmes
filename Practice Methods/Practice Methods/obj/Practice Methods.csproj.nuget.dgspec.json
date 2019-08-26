@@ -1,0 +1,59 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Mom\\Documents\\TrueCoders\\Assignments\\Practice Method\\Practice Method\\practice-methods-haeilmes\\Practice Methods\\Practice Methods\\Practice Methods.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Mom\\Documents\\TrueCoders\\Assignments\\Practice Method\\Practice Method\\practice-methods-haeilmes\\Practice Methods\\Practice Methods\\Practice Methods.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Mom\\Documents\\TrueCoders\\Assignments\\Practice Method\\Practice Method\\practice-methods-haeilmes\\Practice Methods\\Practice Methods\\Practice Methods.csproj",
+        "projectName": "Practice Methods",
+        "projectPath": "C:\\Users\\Mom\\Documents\\TrueCoders\\Assignments\\Practice Method\\Practice Method\\practice-methods-haeilmes\\Practice Methods\\Practice Methods\\Practice Methods.csproj",
+        "packagesPath": "C:\\Users\\Mom\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Mom\\Documents\\TrueCoders\\Assignments\\Practice Method\\Practice Method\\practice-methods-haeilmes\\Practice Methods\\Practice Methods\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Mom\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
