@@ -1,0 +1,11 @@
+C:\Users\Mom\Documents\TrueCoders\Assignments\Practice Method\Practice Method\practice-methods-haeilmes\Practice Methods\Practice Methods\bin\Debug\netcoreapp2.1\Practice Methods.deps.json
+C:\Users\Mom\Documents\TrueCoders\Assignments\Practice Method\Practice Method\practice-methods-haeilmes\Practice Methods\Practice Methods\bin\Debug\netcoreapp2.1\Practice Methods.runtimeconfig.json
+C:\Users\Mom\Documents\TrueCoders\Assignments\Practice Method\Practice Method\practice-methods-haeilmes\Practice Methods\Practice Methods\bin\Debug\netcoreapp2.1\Practice Methods.runtimeconfig.dev.json
+C:\Users\Mom\Documents\TrueCoders\Assignments\Practice Method\Practice Method\practice-methods-haeilmes\Practice Methods\Practice Methods\bin\Debug\netcoreapp2.1\Practice Methods.dll
+C:\Users\Mom\Documents\TrueCoders\Assignments\Practice Method\Practice Method\practice-methods-haeilmes\Practice Methods\Practice Methods\bin\Debug\netcoreapp2.1\Practice Methods.pdb
+C:\Users\Mom\Documents\TrueCoders\Assignments\Practice Method\Practice Method\practice-methods-haeilmes\Practice Methods\Practice Methods\obj\Debug\netcoreapp2.1\Practice Methods.csprojAssemblyReference.cache
+C:\Users\Mom\Documents\TrueCoders\Assignments\Practice Method\Practice Method\practice-methods-haeilmes\Practice Methods\Practice Methods\obj\Debug\netcoreapp2.1\Practice Methods.csproj.CoreCompileInputs.cache
+C:\Users\Mom\Documents\TrueCoders\Assignments\Practice Method\Practice Method\practice-methods-haeilmes\Practice Methods\Practice Methods\obj\Debug\netcoreapp2.1\Practice Methods.AssemblyInfoInputs.cache
+C:\Users\Mom\Documents\TrueCoders\Assignments\Practice Method\Practice Method\practice-methods-haeilmes\Practice Methods\Practice Methods\obj\Debug\netcoreapp2.1\Practice Methods.AssemblyInfo.cs
+C:\Users\Mom\Documents\TrueCoders\Assignments\Practice Method\Practice Method\practice-methods-haeilmes\Practice Methods\Practice Methods\obj\Debug\netcoreapp2.1\Practice Methods.dll
+C:\Users\Mom\Documents\TrueCoders\Assignments\Practice Method\Practice Method\practice-methods-haeilmes\Practice Methods\Practice Methods\obj\Debug\netcoreapp2.1\Practice Methods.pdb
